@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "pwa-experiment-69ffd"
+    "default": "pwa-experiment-69ffd",
+    "staging": "react-pwa-17032020"
   }
 }
